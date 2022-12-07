@@ -1,6 +1,6 @@
 # Semester Project 2
 
-![image](Semester Project 2 screenshot.png)
+![Semester Project 2 screenshot](https://github.com/FEDS74/Semester_Project_2/blob/main/src/Images/Semester%20Project%202%20screenshot.png)
 
 
 
