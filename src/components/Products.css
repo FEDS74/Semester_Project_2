@@ -1,0 +1,18 @@
+.container-products {
+    display: flex;
+    flex-flow: row wrap !important;
+    justify-content: space-between !important;
+}
+
+.container-show {
+    display: flex !important;
+}
+
+
+
+
+
+
+
+
+

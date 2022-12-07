@@ -1,0 +1,33 @@
+.nav-tabs .nav-link.active {
+    background-color: aliceblue !important;
+    border: none !important;
+    border-top: solid 2px purple !important;
+    border-bottom: solid 2px purple !important;
+    color: purple !important;
+    font-weight: bold !important;
+}
+
+.nav-tabs .nav-link {
+    background-color: aliceblue !important;
+    border: none !important;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    font-weight: bold !important;
+}
+
+.img-fluid {
+    border-radius: 12px;
+}
+
+
+.container-col2 {
+    text-align: left;   
+}
+
+.back-nav {
+    color: rgba(0, 0, 0, .55)
+}
+
+.back-nav:hover {
+    color: rgba(0, 0, 0, 1)
+}

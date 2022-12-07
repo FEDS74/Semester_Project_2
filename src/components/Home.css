@@ -1,0 +1,210 @@
+
+
+
+/* .hero-container {
+    margin: 0 10% !important;
+} */
+
+.img-fluid {
+    border-radius: 0 !important;
+}
+
+.card-title {
+    top: 0 !important;
+    left: 30px !important;
+}
+
+@media (max-width: 576px) {
+      .hero-img {
+        content: url(../Images/puppyToy.jpg);
+    }
+    .card-img-overlay {
+        position: relative;
+
+    }
+    .card {
+        border-radius: 0 !important;
+    }
+}
+
+
+/* .card-img-overlay {
+    background-color: black !important;
+    opacity: 0.5 !important;
+
+h1 {
+    font-size: 4rem !important;
+}
+
+h3 {
+  font-size: 3rem !important;
+}
+
+.img-fluid {
+    border-radius: 0 !important;
+    opacity: .6;
+}
+
+.hero-img {
+   width: 100vw; 
+}
+
+.row {
+    margin: 0;
+}
+
+.jumbotron-container {
+    background-color: black;
+    
+}
+
+.jumbotron-overlay {
+    position: relative;
+}
+
+.jumbotron-content {
+    position: absolute;
+    top: 30%;
+    left: 8%;
+    width: 80%;
+    margin: 0 auto !important;
+    height: 80%;
+    color: white !important;
+    text-transform: uppercase;
+}
+
+.jumbotron-container h5 {
+    margin: 0 auto;
+    margin-bottom: 2em;
+    margin-top: 2em;
+}
+
+.jumbotron-content p {
+    padding-bottom: 20px;
+}
+
+.container {
+    max-width: 90% !important;
+}
+
+.home-card {
+    width: 18rem !important;
+    margin-bottom: 50px;
+}
+
+.home-card-img-top {
+    height: 15rem;
+}
+
+.home-card-container {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin: 0 auto;
+}
+
+
+
+
+@media (min-width: 1400px) {
+    .container {
+        max-width: 80%;
+    }
+    .home-card {
+        width: 25rem !important;
+    }
+    .home-card-img-top {
+        height: 28rem !important;
+    }
+    .card-body {
+        height: 15rem !important;
+    }
+    .card-body .btn {
+        position: absolute;
+        left: 20px;
+        bottom: 20px;
+    }
+    .btn {
+        padding: .5rem 2.5rem;
+        font-size: 1.75rem !important;
+    }   
+    h5 {
+        font-size: 2rem !important;
+    }
+    .card-text {
+        font-size: 1.75rem;
+    }
+    .cont {
+       max-width: 100%;
+    }
+}
+
+@media (max-width: 1024px) {
+    h1 {
+        font-size: 2.75rem !important;
+    }
+}
+
+
+
+
+
+@media (max-width: 576px) {
+    .jumbotron-content {
+    top: 10%;
+    }
+    .hero-btn {
+        padding: .125rem .375rem;
+    }
+    .jumbotron-content .h3 {
+        width: 100%;
+    }
+    .p .div {
+       flex-direction: column;
+       flex-wrap: wrap;
+    }
+    .jumbotron-content p {
+    font-size: 12px;
+    width: 30%;
+    }
+    .home-card-container {
+        max-width: 100% !important;
+        justify-content: space-evenly;
+    }
+}
+
+@media (max-width: 425px) {
+    .jumbotron-content p {
+        padding: 0;
+        width: 80%;
+    }
+    .jumbotron-content .btn {
+        bottom: 0;
+        right: 0;
+        position: absolute;
+    }
+    .container {
+        max-width: 100% !important;
+        padding: 0 !important;
+    }
+    .card {
+        width: 100% !important;
+    }
+    .container h3 {
+        text-align: center;
+    }
+    h1 {
+        font-size: 2.25rem !important;
+    }
+    h3 {
+        font-size: 2.25rem !important;
+    }
+}
+
+
+
+
+
+
+
+ */
