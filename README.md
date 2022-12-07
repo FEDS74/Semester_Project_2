@@ -10,7 +10,7 @@
 The project is a site to shop for dog toys and other products, including login page for adding, removing and editing products for an admin account.
 It features an home page with a hero image and featured products as well as a footer for information about the Dog Shop.
 
-You can add some bullet points if you'd like to:
+Short list of the pages:
 
 - Home page with featured products
 - Products page with all products
